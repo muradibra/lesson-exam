@@ -1,0 +1,9 @@
+@media (min-width:768px) {
+    #searchData {
+        width: 25% !important;
+    }
+}
+
+ul {
+    list-style: none;
+}

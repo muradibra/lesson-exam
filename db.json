@@ -1,0 +1,96 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 2,
+      "name": "Turkey"
+    },
+    {
+      "name": "France",
+      "id": 3
+    },
+    {
+      "name": "Deutschland",
+      "id": 4
+    },
+    {
+      "name": "USA",
+      "id": 5
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Baku",
+      "country_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ankara",
+      "country_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Izmir",
+      "country_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Istanbul",
+      "country_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Fuzuli",
+      "country_id": 1
+    },
+    {
+      "name": "Xacmaz",
+      "country_id": 1,
+      "id": 6
+    },
+    {
+      "name": "Xizi",
+      "country_id": 1,
+      "id": 7
+    },
+    {
+      "name": "Paris",
+      "country_id": 3,
+      "id": 8
+    },
+    {
+      "name": "Berlin",
+      "country_id": 4,
+      "id": 9
+    },
+    {
+      "name": "Munchen",
+      "country_id": 4,
+      "id": 10
+    },
+    {
+      "name": "Bavaria",
+      "country_id": 4,
+      "id": 11
+    },
+    {
+      "name": "California",
+      "country_id": 5,
+      "id": 12
+    },
+    {
+      "name": "San-Fransisco",
+      "country_id": 5,
+      "id": 13
+    },
+    {
+      "name": "Quba",
+      "country_id": 1,
+      "id": 14
+    }
+  ]
+}
